@@ -106,6 +106,12 @@ Copyright section with:
 - Theme toggles (Desktop, Light, Dark)
 - Language selector
 
+## 📸 Screenshot
+
+### Full Page View
+
+![Full Cursor Landing Page](screenshots/full-page.png)
+
 ## 🎨 Fonts and Colors Used
 
 ### Fonts
